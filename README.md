@@ -4,7 +4,7 @@
 
 
 - 🎓 &nbsp; Studying Computer Science at University of Western Paulista.
-
+<!---
 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=yellow)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=red)
@@ -24,7 +24,7 @@
 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![Premiere](https://img.shields.io/badge/-Premiere-333333?style=flat&logo=adobe-premiere-pro)
-
+--->
 
 <h3 align="center"> 🤝🏻 &nbsp;Find Me </h3>
 <p align="center">
