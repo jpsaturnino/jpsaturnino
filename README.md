@@ -3,7 +3,7 @@
 
 
 
-- 🎓 &nbsp; Studying Computer Science at University of Western Paulista.
+- 🎓 &nbsp; Studying Computer Science in the third-year at University of Western Paulista.
 <!---
 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=yellow)
