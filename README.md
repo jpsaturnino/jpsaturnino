@@ -1,9 +1,9 @@
-<h2 align="center"> Hey there! I'm José Paulo.</h2>
+<h2 align="center"> Hey there!</h2>
 
 
 
 
-- 🎓 &nbsp; Studying Computer Science in the third-year at University of Western Paulista.
+<p align="center"> 🎓 &nbsp; Studying Computer Science in the third-year at University of Western Paulista. </p>
 <!---
 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=yellow)
@@ -29,13 +29,7 @@
 <h3 align="center"> 🤝🏻 &nbsp;Find Me </h3>
 <p align="center">
 <!--<a href="#"><img alt="Website" src="https://img.shields.io/badge/Website-#-blue?style=flat-square&logo=google-chrome"></a>-->
-<a href="https://www.linkedin.com/in/jp-saturnino/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jose%20Paulo%20Lobo%20Saturnino-blue?style=social&logo=linkedin"></a><br>
+<a href="https://www.linkedin.com/in/jp-saturnino/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jose%20Paulo-blue?style=social&logo=linkedin"></a><br>
 <a href="https://www.instagram.com/jp_saturnino/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-jp__saturnino-blue?style=social&logo=instagram"></a><br>
 <a href="mailto:jp_saturnino@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jp__saturnino@hotmail.com-blue?style=social&logo=gmail"></a>
 </p>
-
-
-
-> "_I am the master of my fate:
-I am the captain of my soul._"
-~ [W. E. Henley](https://www.goodreads.com/work/quotes/14350127-invictus-english-poets-book-2)
